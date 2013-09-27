@@ -1,0 +1,4 @@
+Here's a little projet named "Webninja", it's a simple auto SQL injector that can use :
+
+-SQli error based (+ some WAF bypass if it's needed)
+-SQli error based (type string) (+ some WAF bypass if it's needed)
